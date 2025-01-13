@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 启动器使用支持 / 一般问题
+    url: https://github.com/hanamizuki-ai/launcher-support/discussions/categories/%E9%97%AE%E7%AD%94
+    about: 请在此提出除缺陷 / 新需求以外的其他问题。
+  - name: 其他应用支持 (Discord)
+    url: https://discord.gg/pkFzcM5yft
+    about: 请在此寻求与启动器无关的其他使用支持。
+  - name: 其他应用支持 (QQ 频道)
+    url: https://pd.qq.com/s/gi9dr6skp
+    about: 请在此寻求与启动器无关的其他使用支持。
